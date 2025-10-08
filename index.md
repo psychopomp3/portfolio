@@ -1,4 +1,8 @@
 ---
-title: Welcome to my blog
+title: JRC portfolio. Yay.
 ---
+## a title
 
+```bash
+go get something
+```
